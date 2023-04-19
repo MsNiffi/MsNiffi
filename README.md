@@ -1,7 +1,11 @@
-### Hi there 👋
 
-<!--
-**MsNiffi/MsNiffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://" alt="img banner"/>
+
+<div id = "badges">
+ <a href="https://www.linkedin.com/in/anette-londal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div/>
+### About me
 
 Here are some ideas to get you started:
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
